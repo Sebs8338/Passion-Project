@@ -1,0 +1,13 @@
+*tfstate*
+.terraform
+jjk-domain-sites
+node_modules
+.terraform.lock.hcl
+package-lock.json
+package.json*.tar.gz
+dist/
+package.json
+tfplan 
+site-build.tar.gz
+Problem.md
+main.go
