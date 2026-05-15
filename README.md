@@ -279,9 +279,9 @@ This pattern can distribute requests across all backend instance groups. However
 
 ## 🎬 Demo
 
-Demo Video:  
-https://github.com/user-attachments/assets/262783bc-9668-4b34-af12-a739fbfec2a3
+Demo Video:
 
+https://github.com/user-attachments/assets/262783bc-9668-4b34-af12-a739fbfec2a3
 ---
 
 ## 🧰 Technology Stack
