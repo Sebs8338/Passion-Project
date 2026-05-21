@@ -107,12 +107,6 @@ The objective is to build a realistic GCP infrastructure deployment that proves 
 
 <img width="1200" alt="Architecture Diagram" src="./diagrams/architecture-diagram.png" />
 
-Save your architecture image as:
-
-```text
-diagrams/architecture-diagram.png
-```
-
 The architecture diagram should show:
 
 - External user
